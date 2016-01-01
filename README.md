@@ -3,7 +3,7 @@
 ## Technical
 
 * [X] [Progressive Webapp](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)
-* [ ] [Application Shell Architecture] (https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)
+* [X] [Application Shell Architecture] (https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)
 
 
 ## Non Technical
