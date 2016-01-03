@@ -20,4 +20,6 @@
 * [ ] [The Big Short: Inside the Doomsday Machine] (http://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827)
 * [ ] [Who Gets What — and Why] (http://www.amazon.com/Who-Gets-What-Why-Matchmaking/dp/0544291131/)
 * [ ] [Why Nations Fail] (http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719227)
+* [ ] [World Order] (http://www.amazon.com/gp/product/0143127713/)
+* [ ] [The Courage to Act] (http://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath/dp/039324721X/)
 * [ ] [Outliers](http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
