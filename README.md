@@ -14,6 +14,7 @@
 * [X] [Zero to One](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 * [X] [The start-up of you](http://www.amazon.com/Start-up-You-Future-Yourself-Transform/dp/0307888908)
 * [X] [The Happiness Hypothesis](http://www.amazon.com/The-Happiness-Hypothesis-Finding-Ancient/dp/0465028020)
+* [X] [Good to Great](http://www.amazon.com/Good-Great-Companies-Takeaways-Analysis/dp/1519745265)
 * [ ] [The Road to Character] (http://www.amazon.com/The-Road-Character-David-Brooks/dp/081299325X) 
 * [ ] [Destiny and Power](http://www.amazon.com/Destiny-Power-American-Odyssey-Herbert/dp/1400067650)
 * [ ] [Team of Rivals] (http://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0743270754/)
