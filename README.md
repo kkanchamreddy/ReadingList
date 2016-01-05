@@ -1,12 +1,5 @@
 # ReadingList
 
-## URLs
-
-* [X] [Progressive Webapp](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)
-* [X] [Application Shell Architecture] (https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)
-
-
-## Books
 
 * [X] [Duty: Memoirs of a Secretary at War] (http://www.amazon.com/Duty-Memoirs-Secretary-at-War/dp/030794963X)
 * [X] [The Audacity to Win] (http://www.amazon.com/Audacity-Win-Lessons-Historic-Hardcover/dp/B002VEWUPG)
@@ -15,6 +8,7 @@
 * [X] [The start-up of you](http://www.amazon.com/Start-up-You-Future-Yourself-Transform/dp/0307888908)
 * [X] [The Happiness Hypothesis](http://www.amazon.com/The-Happiness-Hypothesis-Finding-Ancient/dp/0465028020)
 * [X] [Good to Great](http://www.amazon.com/Good-Great-Companies-Takeaways-Analysis/dp/1519745265)
+* [ ] [Outliers](http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 * [ ] [The Road to Character] (http://www.amazon.com/The-Road-Character-David-Brooks/dp/081299325X) 
 * [ ] [Destiny and Power](http://www.amazon.com/Destiny-Power-American-Odyssey-Herbert/dp/1400067650)
 * [ ] [Team of Rivals] (http://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0743270754/)
@@ -23,4 +17,4 @@
 * [ ] [Why Nations Fail] (http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719227)
 * [ ] [World Order] (http://www.amazon.com/gp/product/0143127713/)
 * [ ] [The Courage to Act] (http://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath/dp/039324721X/)
-* [ ] [Outliers](http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
+
