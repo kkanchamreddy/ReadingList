@@ -18,4 +18,5 @@
 * [ ] [World Order] (http://www.amazon.com/gp/product/0143127713/)
 * [ ] [The Courage to Act] (http://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath/dp/039324721X/)
 * [ ] [Sapiens] (http://www.amazon.com/Sapiens-A-Brief-History-Humankind/dp/0062316095)
+* [ ] [Thomas Jefferson: The Art of Power] (http://www.amazon.com/Thomas-Jefferson-Power-Jon-Meacham-ebook/dp/B0089EHKE8)
 
