@@ -19,4 +19,4 @@
 * [ ] [The Courage to Act] (http://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath/dp/039324721X/)
 * [ ] [Sapiens] (http://www.amazon.com/Sapiens-A-Brief-History-Humankind/dp/0062316095)
 * [X] [Thomas Jefferson: The Art of Power] (http://www.amazon.com/Thomas-Jefferson-Power-Jon-Meacham-ebook/dp/B0089EHKE8)
-* [ ] [1940: FDR, Willkie, Lindbergh, Hitler—the Election amid the Storm] (http://www.amazon.com/1940-Willkie-Lindbergh-Hitler%C2%97-Election/dp/0300190867/)
+* [X] [1940: FDR, Willkie, Lindbergh, Hitler—the Election amid the Storm] (http://www.amazon.com/1940-Willkie-Lindbergh-Hitler%C2%97-Election/dp/0300190867/)
