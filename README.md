@@ -21,3 +21,4 @@
 * [X] [Thomas Jefferson: The Art of Power] (http://www.amazon.com/Thomas-Jefferson-Power-Jon-Meacham-ebook/dp/B0089EHKE8)
 * [X] [1940: FDR, Willkie, Lindbergh, Hitler—the Election amid the Storm] (http://www.amazon.com/1940-Willkie-Lindbergh-Hitler%C2%97-Election/dp/0300190867/)
 * [ ] [The Intelligent Investor] (http://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/)
+* [ ] [The Forgotten Man: A New History of the Great Depression](http://www.amazon.com/gp/product/022406312X/)
