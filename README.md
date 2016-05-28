@@ -22,3 +22,4 @@
 * [X] [1940: FDR, Willkie, Lindbergh, Hitler—the Election amid the Storm] (http://www.amazon.com/1940-Willkie-Lindbergh-Hitler%C2%97-Election/dp/0300190867/)
 * [ ] [The Intelligent Investor] (http://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/)
 * [ ] [The Forgotten Man: A New History of the Great Depression](http://www.amazon.com/gp/product/022406312X/)
+* [ ] [The American President: From Teddy Roosevelt to Bill Clinton](http://www.amazon.com/dp/0195176162)
