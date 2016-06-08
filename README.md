@@ -23,3 +23,5 @@
 * [ ] [The Intelligent Investor] (http://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/)
 * [ ] [The Forgotten Man: A New History of the Great Depression](http://www.amazon.com/gp/product/022406312X/)
 * [ ] [The American President: From Teddy Roosevelt to Bill Clinton](http://www.amazon.com/dp/0195176162)
+* [ ] [The Power of Now: A Guide to Spiritual Enlightenment](http://www.amazon.com/dp/1577314808)
+* [X] [The Presidents Club](http://www.amazon.com/Presidents-Club-Inside-Exclusive-Fraternity/dp/1439127727)
