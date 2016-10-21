@@ -26,3 +26,4 @@
 * [ ] [The Power of Now: A Guide to Spiritual Enlightenment](http://www.amazon.com/dp/1577314808)
 * [X] [The Presidents Club](http://www.amazon.com/Presidents-Club-Inside-Exclusive-Fraternity/dp/1439127727)
 * [X] [Screw Business As Usual](https://www.amazon.com/Screw-Business-Usual-Richard-Branson/dp/1591844347)
+* [X] [Ninja Innovation](https://www.amazon.com/Ninja-Innovation-Strategies-Successful-Businesses/dp/0062242334)
