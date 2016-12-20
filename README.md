@@ -27,3 +27,4 @@
 * [X] [The Presidents Club](http://www.amazon.com/Presidents-Club-Inside-Exclusive-Fraternity/dp/1439127727)
 * [X] [Screw Business As Usual](https://www.amazon.com/Screw-Business-Usual-Richard-Branson/dp/1591844347)
 * [X] [Ninja Innovation](https://www.amazon.com/Ninja-Innovation-Strategies-Successful-Businesses/dp/0062242334)
+* [ ] [Compound Effect](https://www.amazon.com/Compound-Effect-Darren-Hardy-ebook/dp/B005P1YCNK)
