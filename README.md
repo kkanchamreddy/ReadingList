@@ -29,3 +29,4 @@
 * [X] [Ninja Innovation](https://www.amazon.com/Ninja-Innovation-Strategies-Successful-Businesses/dp/0062242334)
 * [ ] [Compound Effect](https://www.amazon.com/Compound-Effect-Darren-Hardy-ebook/dp/B005P1YCNK)
 * [ ] [Originals](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565)
+* [ ] [Seneca](https://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103/)
