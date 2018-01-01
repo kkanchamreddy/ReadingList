@@ -15,7 +15,7 @@
 * [ ] [The Big Short: Inside the Doomsday Machine](http://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827)
 * [ ] [Who Gets What — and Why](http://www.amazon.com/Who-Gets-What-Why-Matchmaking/dp/0544291131/)
 * [ ] [Why Nations Fail](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719227)
-* [ ] [World Order] (http://www.amazon.com/gp/product/0143127713/)
+* [ ] [World Order](http://www.amazon.com/gp/product/0143127713/)
 * [ ] [The Courage to Act](http://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath/dp/039324721X/)
 * [ ] [Sapiens](http://www.amazon.com/Sapiens-A-Brief-History-Humankind/dp/0062316095)
 * [X] [Thomas Jefferson: The Art of Power](http://www.amazon.com/Thomas-Jefferson-Power-Jon-Meacham-ebook/dp/B0089EHKE8)
@@ -30,3 +30,7 @@
 * [ ] [Compound Effect](https://www.amazon.com/Compound-Effect-Darren-Hardy-ebook/dp/B005P1YCNK)
 * [ ] [Originals](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565)
 * [ ] [Seneca](https://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103/)
+* [ ] [Man's Search for Meaning](https://smile.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/)
+* [ ] [When: The Scientific Secrets of Perfect Timing](https://smile.amazon.com/dp/0735210624/)
+* [ ] [Crucial Conversations](https://smile.amazon.com/dp/B005K0AYH4/)
+
