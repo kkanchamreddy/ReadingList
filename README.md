@@ -34,4 +34,6 @@
 * [ ] [When: The Scientific Secrets of Perfect Timing](https://smile.amazon.com/dp/0735210624/)
 * [X] [Crucial Conversations](https://smile.amazon.com/dp/B005K0AYH4/)
 * [X] [DRiVE](https://smile.amazon.com/dp/B004P1JDJO/)
+* [X] [What Got You Here Won't Get You There](www.amazon.com/dp/B000Q9J128/)
+* [X] [Give and Take](www.amazon.com/dp/0143124986) 
 
