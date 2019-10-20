@@ -37,6 +37,6 @@
 * [X] [DRiVE](https://smile.amazon.com/dp/B004P1JDJO/)
 * [X] [What Got You Here Won't Get You There](www.amazon.com/dp/B000Q9J128/)
 * [X] [Give and Take](www.amazon.com/dp/0143124986) 
-* [ ] [The hard thing about hard things] (www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
-* [ ] [High Output Management] (https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+* [ ] [The hard thing about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
+* [ ] [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 
