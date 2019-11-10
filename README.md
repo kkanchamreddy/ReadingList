@@ -40,4 +40,5 @@
 * [ ] [The hard thing about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
 * [ ] [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 * [X] [Tim Cook: The Genius Who Took Apple to the Next Level](https://www.amazon.com/Tim-Cook-Genius-Apple-Level/dp/0525537600/)
+* [X] [Hit Refresh](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/0062652508/)
 
